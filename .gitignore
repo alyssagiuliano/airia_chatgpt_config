@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# Secrets — never commit the Airia token
+.env
